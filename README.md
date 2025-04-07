@@ -1,48 +1,12 @@
-Privacy Policy for AI Resume Revise
+AI Resume Revise is your smart assistant for job applications. Powered by DeepSeek, our app analyzes your work experience and tailors your resume to match any job description—instantly, accurately, and professionally.
 
-Last updated:2025/04/08
+Whether you’re applying for your first internship or your next professional role, AI Resume Revise helps you stand out with personalized, ATS-optimized resumes that fit each opportunity perfectly.
 
-AI Resume Revise is designed with user privacy in mind. This policy explains how data is handled within the app.
+Key Features:
+	•	📄 AI-powered resume revision using DeepSeek
+	•	🎯 Match your resume to any job description
+	•	✍️ Highlight relevant skills & experiences instantly
+	•	✅ ATS-friendly formatting & optimization
+	•	🗂 Save, copy, or share your updated resume with ease
 
-⸻
-
-🔍 Data Collection
-
-This app does not collect, store, or share any personal data.
-No user accounts, login credentials, contact information, or location data are required or stored.
-
-⸻
-
-🤖 Resume Processing via DeepSeek API
-
-Resume and job description inputs are sent to the DeepSeek API for real-time processing.
-	•	Data is used solely to generate a response
-	•	No information is stored or logged by this app
-	•	DeepSeek’s privacy practices apply to this processing. See their Privacy Policy——https://cdn.deepseek.com/policies/zh-CN/deepseek-privacy-policy.html
-
-⸻
-
-💾 Local Data Storage
-
-All revision history or generated results are stored locally on the user’s device using SwiftUI’s default storage mechanisms.
-	•	This data remains on-device
-	•	It is not transmitted externally
-	•	Deleting the app will remove this data
-
-⸻
-
-🔐 Security
-
-All communication with the DeepSeek API is secured via HTTPS encryption to protect user input during transmission.
-
-⸻
-
-📦 Third-Party Services
-
-This app does not include third-party SDKs for analytics, advertising, or user tracking.
-
-⸻
-
-🔄 Policy Updates
-
-Any changes to this privacy policy will be updated on this page, with a revised “Last updated” date.
+Apply smarter. Land interviews faster. Let AI refine your resume for every job.
