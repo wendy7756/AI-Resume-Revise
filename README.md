@@ -1,51 +1,17 @@
-**Privacy Policy**
+# AI Resume Revise
 
-*Last updated: [April 8, 2025]*
-
-**AI Resume Revise** is designed with user privacy in mind. This policy explains how data is handled within the app.
+**AI Resume Revise** is a lightweight iOS application that helps users improve and tailor their resumes using the AI API. The app processes resume and job description inputs in real-time to generate AI-powered suggestions, all while ensuring user privacy with local data storage and no external tracking.
 
 ---
 
-**🔍 Data Collection**
+### 📄 [Privacy Policy](https://wendy7756.github.io/AI-Resume-Revise/PrivacyPolicy.html)
 
-This app does **not collect, store, or share** any personal data.
+Learn more about how we handle data and protect your privacy.
 
-No user accounts, login credentials, contact information, or location data are required or stored.
+### 🛠️ [Support](https://wendy7756.github.io/AI-Resume-Revise/Support.html)
 
----
-
-**🤖 Resume Processing via DeepSeek API**
-
-Resume and job description inputs are sent to the **DeepSeek API** for real-time processing.
-
-- Data is used solely to generate a response
-- No information is stored or logged by this app
-- DeepSeek’s privacy practices apply to this processing. See their [Privacy Policy](https://cdn.deepseek.com/policies/zh-CN/deepseek-privacy-policy.html)
+Need help or have questions? Visit our support page.
 
 ---
 
-**💾 Local Data Storage**
-
-All revision history or generated results are stored **locally on the user’s device** using SwiftUI’s default storage mechanisms.
-
-- This data remains on-device
-- It is not transmitted externally
-- Deleting the app will remove this data
-
----
-
-**🔐 Security**
-
-All communication with the DeepSeek API is secured via **HTTPS** encryption to protect user input during transmission.
-
----
-
-**📦 Third-Party Services**
-
-This app does **not** include third-party SDKs for analytics, advertising, or user tracking.
-
----
-
-**🔄 Policy Updates**
-
-Any changes to this privacy policy will be updated on this page, with a revised “Last updated” date.
+This app does not collect or store personal information. All data is processed securely and locally.
