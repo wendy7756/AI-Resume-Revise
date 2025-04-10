@@ -1,3 +1,5 @@
+**Privacy Policy**
+
 *Last updated: [April 8, 2025]*
 
 **AI Resume Revise** is designed with user privacy in mind. This policy explains how data is handled within the app.
